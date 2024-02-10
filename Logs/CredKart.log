@@ -1,0 +1,165 @@
+2024-01-29 20:59:07,082 : INFO : root : test_Userlogin : 34 : Testcase test_Userlogin is started
+2024-01-29 20:59:07,083 : INFO : root : test_Userlogin : 35 : Opening browser
+2024-01-29 20:59:07,210 : INFO : root : test_Userlogin : 41 : Entering Username-->Credencetest@test.com
+2024-01-29 20:59:07,315 : INFO : root : test_Userlogin : 45 : Entering Userpassword-->Credence@123
+2024-01-29 20:59:08,778 : INFO : root : test_Userlogin : 49 : Click on login button
+2024-01-29 20:59:08,795 : INFO : root : test_Userlogin : 52 : Testcase test_UserLogin is passed
+2024-01-29 20:59:08,960 : INFO : root : test_Userlogin : 60 : Testcase test_Userlogin is completed
+2024-01-29 20:59:13,587 : INFO : root : test_UserRegistration : 63 : Testcase test_UserRegistration is started
+2024-01-29 20:59:13,876 : INFO : root : test_UserRegistration : 69 : Opening browser
+2024-01-29 20:59:13,970 : INFO : root : test_UserRegistration : 72 : Entering Username-->Credence
+2024-01-29 20:59:14,139 : INFO : root : test_UserRegistration : 80 : Entering Userpassword-->Credence@123
+2024-01-29 20:59:14,202 : INFO : root : test_UserRegistration : 83 : Entering User Confirm password-->Credence@123
+2024-01-29 20:59:15,998 : INFO : root : test_UserRegistration : 86 : Click on register button
+2024-01-29 20:59:16,009 : INFO : root : test_UserRegistration : 91 : Testcase test_UserRegistration is passed
+2024-01-29 20:59:16,187 : INFO : root : test_UserRegistration : 98 : Testcase test_UserRegistration is Completed
+2024-01-29 21:01:30,015 : INFO : root : test_Userlogin : 34 : Testcase test_Userlogin is started
+2024-01-29 21:01:30,016 : INFO : root : test_Userlogin : 35 : Opening browser
+2024-01-29 21:01:30,016 : INFO : root : test_UserRegistration : 63 : Testcase test_UserRegistration is started
+2024-01-29 21:01:30,146 : INFO : root : test_Userlogin : 41 : Entering Username-->Credencetest@test.com
+2024-01-29 21:01:30,194 : INFO : root : test_UserRegistration : 69 : Opening browser
+2024-01-29 21:01:30,312 : INFO : root : test_Userlogin : 45 : Entering Userpassword-->Credence@123
+2024-01-29 21:01:30,366 : INFO : root : test_UserRegistration : 72 : Entering Username-->Credence
+2024-01-29 21:01:30,597 : INFO : root : test_UserRegistration : 80 : Entering Userpassword-->Credence@123
+2024-01-29 21:01:30,689 : INFO : root : test_UserRegistration : 83 : Entering User Confirm password-->Credence@123
+2024-01-29 21:01:31,614 : INFO : root : test_Userlogin : 49 : Click on login button
+2024-01-29 21:01:31,649 : INFO : root : test_Userlogin : 52 : Testcase test_UserLogin is passed
+2024-01-29 21:01:31,837 : INFO : root : test_UserRegistration : 86 : Click on register button
+2024-01-29 21:01:31,852 : INFO : root : test_UserRegistration : 91 : Testcase test_UserRegistration is passed
+2024-01-29 21:01:31,914 : INFO : root : test_Userlogin : 60 : Testcase test_Userlogin is completed
+2024-01-29 21:01:32,113 : INFO : root : test_UserRegistration : 98 : Testcase test_UserRegistration is Completed
+2024-01-29 21:01:43,511 : INFO : root : test_UserRegistration : 63 : Testcase test_UserRegistration is started
+2024-01-29 21:01:43,689 : INFO : root : test_UserRegistration : 69 : Opening browser
+2024-01-29 21:01:43,794 : INFO : root : test_UserRegistration : 72 : Entering Username-->Credence
+2024-01-29 21:01:44,164 : INFO : root : test_UserRegistration : 80 : Entering Userpassword-->Credence@123
+2024-01-29 21:01:44,546 : INFO : root : test_UserRegistration : 83 : Entering User Confirm password-->Credence@123
+2024-01-29 21:01:45,435 : INFO : root : test_Userlogin : 34 : Testcase test_Userlogin is started
+2024-01-29 21:01:45,436 : INFO : root : test_Userlogin : 35 : Opening browser
+2024-01-29 21:01:45,613 : INFO : root : test_Userlogin : 41 : Entering Username-->Credencetest@test.com
+2024-01-29 21:01:45,751 : INFO : root : test_Userlogin : 45 : Entering Userpassword-->Credence@123
+2024-01-29 21:01:45,801 : INFO : root : test_UserRegistration : 86 : Click on register button
+2024-01-29 21:01:45,823 : INFO : root : test_UserRegistration : 91 : Testcase test_UserRegistration is passed
+2024-01-29 21:01:46,037 : INFO : root : test_UserRegistration : 98 : Testcase test_UserRegistration is Completed
+2024-01-29 21:01:46,884 : INFO : root : test_Userlogin : 49 : Click on login button
+2024-01-29 21:01:46,904 : INFO : root : test_Userlogin : 52 : Testcase test_UserLogin is passed
+2024-01-29 21:01:47,100 : INFO : root : test_Userlogin : 60 : Testcase test_Userlogin is completed
+2024-01-29 21:02:03,059 : INFO : root : test_UserRegistration : 63 : Testcase test_UserRegistration is started
+2024-01-29 21:02:03,156 : INFO : root : test_Userlogin : 34 : Testcase test_Userlogin is started
+2024-01-29 21:02:03,156 : INFO : root : test_Userlogin : 35 : Opening browser
+2024-01-29 21:02:03,268 : INFO : root : test_Userlogin : 41 : Entering Username-->Credencetest@test.com
+2024-01-29 21:02:03,293 : INFO : root : test_Userlogin : 45 : Entering Userpassword-->Credence@123
+2024-01-29 21:02:03,336 : INFO : root : test_UserRegistration : 69 : Opening browser
+2024-01-29 21:02:03,490 : INFO : root : test_UserRegistration : 72 : Entering Username-->Credence
+2024-01-29 21:02:03,542 : INFO : root : test_UserRegistration : 80 : Entering Userpassword-->Credence@123
+2024-01-29 21:02:03,564 : INFO : root : test_UserRegistration : 83 : Entering User Confirm password-->Credence@123
+2024-01-29 21:02:04,403 : INFO : root : test_Userlogin : 49 : Click on login button
+2024-01-29 21:02:04,429 : INFO : root : test_Userlogin : 52 : Testcase test_UserLogin is passed
+2024-01-29 21:02:04,608 : INFO : root : test_Userlogin : 60 : Testcase test_Userlogin is completed
+2024-01-29 21:02:04,670 : INFO : root : test_UserRegistration : 86 : Click on register button
+2024-01-29 21:02:04,698 : INFO : root : test_UserRegistration : 91 : Testcase test_UserRegistration is passed
+2024-01-29 21:02:04,803 : INFO : root : test_UserRegistration : 98 : Testcase test_UserRegistration is Completed
+2024-02-02 15:23:34,872 : INFO : root : test_Userlogin : 34 : Testcase test_Userlogin is started
+2024-02-02 15:23:34,873 : INFO : root : test_Userlogin : 35 : Opening browser
+2024-02-02 15:23:34,926 : INFO : root : test_Userlogin : 41 : Entering Username-->Credencetest@test.com
+2024-02-02 15:23:34,958 : INFO : root : test_Userlogin : 45 : Entering Userpassword-->Credence@123
+2024-02-02 15:23:36,170 : INFO : root : test_Userlogin : 49 : Click on login button
+2024-02-02 15:23:36,178 : INFO : root : test_Userlogin : 52 : Testcase test_UserLogin is passed
+2024-02-02 15:23:36,248 : INFO : root : test_Userlogin : 60 : Testcase test_Userlogin is completed
+2024-02-02 15:23:40,469 : INFO : root : test_UserRegistration : 63 : Testcase test_UserRegistration is started
+2024-02-02 15:23:40,614 : INFO : root : test_UserRegistration : 69 : Opening browser
+2024-02-02 15:23:40,647 : INFO : root : test_UserRegistration : 72 : Entering Username-->Credence
+2024-02-02 15:23:40,732 : INFO : root : test_UserRegistration : 80 : Entering Userpassword-->Credence@123
+2024-02-02 15:23:40,765 : INFO : root : test_UserRegistration : 83 : Entering User Confirm password-->Credence@123
+2024-02-02 15:23:41,996 : INFO : root : test_UserRegistration : 86 : Click on register button
+2024-02-02 15:23:42,005 : INFO : root : test_UserRegistration : 91 : Testcase test_UserRegistration is passed
+2024-02-02 15:23:42,061 : INFO : root : test_UserRegistration : 98 : Testcase test_UserRegistration is Completed
+2024-02-02 15:43:34,669 : INFO : root : test_Userlogin : 34 : Testcase test_Userlogin is started
+2024-02-02 15:43:34,669 : INFO : root : test_Userlogin : 35 : Opening browser
+2024-02-02 15:43:34,766 : INFO : root : test_Userlogin : 41 : Entering Username-->Credencetest@test.com
+2024-02-02 15:43:34,839 : INFO : root : test_Userlogin : 45 : Entering Userpassword-->Credence@123
+2024-02-02 15:43:36,206 : INFO : root : test_Userlogin : 49 : Click on login button
+2024-02-02 15:43:36,227 : INFO : root : test_Userlogin : 52 : Testcase test_UserLogin is passed
+2024-02-02 15:43:36,308 : INFO : root : test_Userlogin : 60 : Testcase test_Userlogin is completed
+2024-02-02 15:43:41,072 : INFO : root : test_UserRegistration : 63 : Testcase test_UserRegistration is started
+2024-02-02 15:43:41,242 : INFO : root : test_UserRegistration : 69 : Opening browser
+2024-02-02 15:43:41,309 : INFO : root : test_UserRegistration : 72 : Entering Username-->Credence
+2024-02-02 15:43:41,479 : INFO : root : test_UserRegistration : 80 : Entering Userpassword-->Credence@123
+2024-02-02 15:43:41,554 : INFO : root : test_UserRegistration : 83 : Entering User Confirm password-->Credence@123
+2024-02-02 15:43:42,823 : INFO : root : test_UserRegistration : 86 : Click on register button
+2024-02-02 15:43:42,847 : INFO : root : test_UserRegistration : 91 : Testcase test_UserRegistration is passed
+2024-02-02 15:43:42,954 : INFO : root : test_UserRegistration : 98 : Testcase test_UserRegistration is Completed
+2024-02-02 15:45:09,469 : INFO : root : test_Userlogin : 34 : Testcase test_Userlogin is started
+2024-02-02 15:45:09,470 : INFO : root : test_Userlogin : 35 : Opening browser
+2024-02-02 15:45:09,964 : INFO : root : test_Userlogin : 41 : Entering Username-->Credencetest@test.com
+2024-02-02 15:45:10,083 : INFO : root : test_Userlogin : 45 : Entering Userpassword-->Credence@123
+2024-02-02 15:45:11,377 : INFO : root : test_Userlogin : 49 : Click on login button
+2024-02-02 15:45:11,391 : INFO : root : test_Userlogin : 52 : Testcase test_UserLogin is passed
+2024-02-02 15:45:11,578 : INFO : root : test_Userlogin : 60 : Testcase test_Userlogin is completed
+2024-02-02 15:45:16,967 : INFO : root : test_UserRegistration : 63 : Testcase test_UserRegistration is started
+2024-02-02 15:45:17,142 : INFO : root : test_UserRegistration : 69 : Opening browser
+2024-02-02 15:45:17,325 : INFO : root : test_UserRegistration : 72 : Entering Username-->Credence
+2024-02-02 15:45:17,582 : INFO : root : test_UserRegistration : 80 : Entering Userpassword-->Credence@123
+2024-02-02 15:45:17,695 : INFO : root : test_UserRegistration : 83 : Entering User Confirm password-->Credence@123
+2024-02-02 15:45:18,972 : INFO : root : test_UserRegistration : 86 : Click on register button
+2024-02-02 15:45:18,989 : INFO : root : test_UserRegistration : 91 : Testcase test_UserRegistration is passed
+2024-02-02 15:45:19,193 : INFO : root : test_UserRegistration : 98 : Testcase test_UserRegistration is Completed
+2024-02-02 17:00:53,230 : INFO : root : test_Userlogin : 34 : Testcase test_Userlogin is started
+2024-02-02 17:00:53,232 : INFO : root : test_Userlogin : 35 : Opening browser
+2024-02-02 17:00:53,379 : INFO : root : test_Userlogin : 41 : Entering Username-->Credencetest@test.com
+2024-02-02 17:00:53,524 : INFO : root : test_Userlogin : 45 : Entering Userpassword-->Credence@123
+2024-02-02 17:00:54,863 : INFO : root : test_Userlogin : 49 : Click on login button
+2024-02-02 17:00:54,884 : INFO : root : test_Userlogin : 52 : Testcase test_UserLogin is passed
+2024-02-02 17:00:55,115 : INFO : root : test_Userlogin : 60 : Testcase test_Userlogin is completed
+2024-02-02 17:01:00,015 : INFO : root : test_UserRegistration : 63 : Testcase test_UserRegistration is started
+2024-02-02 17:01:00,248 : INFO : root : test_UserRegistration : 69 : Opening browser
+2024-02-02 17:01:00,329 : INFO : root : test_UserRegistration : 72 : Entering Username-->Credence
+2024-02-02 17:01:00,556 : INFO : root : test_UserRegistration : 80 : Entering Userpassword-->Credence@123
+2024-02-02 17:01:00,633 : INFO : root : test_UserRegistration : 83 : Entering User Confirm password-->Credence@123
+2024-02-02 17:01:01,935 : INFO : root : test_UserRegistration : 86 : Click on register button
+2024-02-02 17:01:01,954 : INFO : root : test_UserRegistration : 91 : Testcase test_UserRegistration is passed
+2024-02-02 17:01:02,131 : INFO : root : test_UserRegistration : 98 : Testcase test_UserRegistration is Completed
+2024-02-07 13:11:31,915 : INFO : root : test_Userlogin : 34 : Testcase test_Userlogin is started
+2024-02-07 13:11:31,916 : INFO : root : test_Userlogin : 35 : Opening browser
+2024-02-07 13:11:32,040 : INFO : root : test_Userlogin : 41 : Entering Username-->Credencetest@test.com
+2024-02-07 13:11:32,126 : INFO : root : test_Userlogin : 45 : Entering Userpassword-->Credence@123
+2024-02-07 13:11:35,678 : INFO : root : test_Userlogin : 49 : Click on login button
+2024-02-07 13:11:35,689 : INFO : root : test_Userlogin : 52 : Testcase test_UserLogin is passed
+2024-02-07 13:11:35,889 : INFO : root : test_Userlogin : 60 : Testcase test_Userlogin is completed
+2024-02-07 13:11:42,113 : INFO : root : test_UserRegistration : 63 : Testcase test_UserRegistration is started
+2024-02-07 13:11:43,186 : INFO : root : test_UserRegistration : 69 : Opening browser
+2024-02-07 13:11:43,282 : INFO : root : test_UserRegistration : 72 : Entering Username-->Credence
+2024-02-07 13:11:43,452 : INFO : root : test_UserRegistration : 80 : Entering Userpassword-->Credence@123
+2024-02-07 13:11:43,513 : INFO : root : test_UserRegistration : 83 : Entering User Confirm password-->Credence@123
+2024-02-07 13:11:47,029 : INFO : root : test_UserRegistration : 86 : Click on register button
+2024-02-07 13:11:47,037 : INFO : root : test_UserRegistration : 91 : Testcase test_UserRegistration is passed
+2024-02-07 13:11:47,236 : INFO : root : test_UserRegistration : 98 : Testcase test_UserRegistration is Completed
+2024-02-07 13:16:24,357 : INFO : root : test_Userlogin : 34 : Testcase test_Userlogin is started
+2024-02-07 13:16:24,357 : INFO : root : test_Userlogin : 35 : Opening browser
+2024-02-07 13:16:24,424 : INFO : root : test_Userlogin : 41 : Entering Username-->Credencetest@test.com
+2024-02-07 13:16:24,471 : INFO : root : test_Userlogin : 45 : Entering Userpassword-->Credence@123
+2024-02-07 13:16:30,577 : INFO : root : test_Userlogin : 49 : Click on login button
+2024-02-07 13:16:30,600 : INFO : root : test_Userlogin : 52 : Testcase test_UserLogin is passed
+2024-02-07 13:16:30,698 : INFO : root : test_Userlogin : 60 : Testcase test_Userlogin is completed
+2024-02-07 13:16:36,765 : INFO : root : test_UserRegistration : 63 : Testcase test_UserRegistration is started
+2024-02-07 13:16:37,279 : INFO : root : test_UserRegistration : 69 : Opening browser
+2024-02-07 13:16:37,333 : INFO : root : test_UserRegistration : 72 : Entering Username-->Credence
+2024-02-07 13:16:37,434 : INFO : root : test_UserRegistration : 80 : Entering Userpassword-->Credence@123
+2024-02-07 13:16:37,483 : INFO : root : test_UserRegistration : 83 : Entering User Confirm password-->Credence@123
+2024-02-07 13:16:42,758 : INFO : root : test_UserRegistration : 86 : Click on register button
+2024-02-07 13:16:42,788 : INFO : root : test_UserRegistration : 91 : Testcase test_UserRegistration is passed
+2024-02-07 13:16:42,865 : INFO : root : test_UserRegistration : 98 : Testcase test_UserRegistration is Completed
+2024-02-07 13:21:18,938 : INFO : root : test_Userlogin : 34 : Testcase test_Userlogin is started
+2024-02-07 13:21:18,938 : INFO : root : test_Userlogin : 35 : Opening browser
+2024-02-07 13:21:19,003 : INFO : root : test_Userlogin : 41 : Entering Username-->Credencetest@test.com
+2024-02-07 13:21:19,043 : INFO : root : test_Userlogin : 45 : Entering Userpassword-->Credence@123
+2024-02-07 13:21:22,479 : INFO : root : test_Userlogin : 49 : Click on login button
+2024-02-07 13:21:22,506 : INFO : root : test_Userlogin : 52 : Testcase test_UserLogin is passed
+2024-02-07 13:21:22,612 : INFO : root : test_Userlogin : 60 : Testcase test_Userlogin is completed
+2024-02-07 13:21:28,604 : INFO : root : test_UserRegistration : 63 : Testcase test_UserRegistration is started
+2024-02-07 13:21:29,602 : INFO : root : test_UserRegistration : 69 : Opening browser
+2024-02-07 13:21:29,663 : INFO : root : test_UserRegistration : 72 : Entering Username-->Credence
+2024-02-07 13:21:29,803 : INFO : root : test_UserRegistration : 80 : Entering Userpassword-->Credence@123
+2024-02-07 13:21:29,844 : INFO : root : test_UserRegistration : 83 : Entering User Confirm password-->Credence@123
+2024-02-07 13:21:32,701 : INFO : root : test_UserRegistration : 86 : Click on register button
+2024-02-07 13:21:32,725 : INFO : root : test_UserRegistration : 91 : Testcase test_UserRegistration is passed
+2024-02-07 13:21:32,816 : INFO : root : test_UserRegistration : 98 : Testcase test_UserRegistration is Completed
